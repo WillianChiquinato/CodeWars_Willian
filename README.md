@@ -1,7 +1,7 @@
 <!-- URL BASE:
 C:\Users\Willian001\Desktop\Projects\CodeWars\PHP\"PASTA\SCRIPT".php -->
 
-# Anotações
+# Anotações 🚀
 
 **strtolower(VARIAVEL)**: Transforma a variavel de string em minuscula
 

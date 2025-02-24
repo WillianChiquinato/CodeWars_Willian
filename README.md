@@ -43,3 +43,5 @@ $pieces = "Array que voce quer transformar em string";
 "Ele junta todos os elementos do array em uma string, e voce pode escolher o que separa os elementos";
 
 **explode()**: Divide a string em um array de numeros.
+
+**decbin($variable)**: Transforma um numero em binários, Ex: 14 -> 1110.
